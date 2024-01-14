@@ -1,6 +1,6 @@
-# Svelte + Vite
+# Tauri + Svelte + SvelteFlow + SQLite
 
-This template should help get you started developing with Tauri and Svelte in Vite.
+This code is explained in the blog post: [Gatewaynode Blog](https://gatewaynode.com/tauri-20-alpha-svelte-svelteflow-and-sqlite)
 
 ## Recommended IDE Setup
 
